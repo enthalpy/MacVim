@@ -1,3 +1,5 @@
-MacVim README:
+Quickly install with:
 
-This repository contains all of the plugins, .vimrc, and .gvimrc files that I use for my favorite MacVim/Vim setup.
+    git clone git://github.com/msanders/snipmate.vim.git
+	cd snipmate.vim
+	cp -R * ~/.vim
