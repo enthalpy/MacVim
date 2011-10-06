@@ -1,7 +1,5 @@
 MacVim README:
 
-This repository contains all of my .vim configuration files and plugins for my custom MacVim setup.
+This repository contains all of the customizations that I use for my favorite MacVim setup.
 
-Please feel free to use this setup for yourself.
-
-This repository will be updated intermittently as my setup changes.
+I will keep this repository updated consistently as I modify my setup.
